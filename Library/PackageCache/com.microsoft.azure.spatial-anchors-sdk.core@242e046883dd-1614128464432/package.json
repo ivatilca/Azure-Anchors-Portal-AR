@@ -1,0 +1,21 @@
+{
+  "name": "com.microsoft.azure.spatial-anchors-sdk.core",
+  "version": "2.7.2",
+  "description": "Unity SDK Core for Azure Spatial Anchors.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure/azure-spatial-anchors-samples.git"
+  },
+  "author": "Azure Mixed Reality Services",
+  "bugs": {
+    "url": "https://github.com/Azure/azure-spatial-anchors-samples/issues"
+  },
+  "homepage": "https://github.com/Azure/azure-spatial-anchors-samples#readme",
+  "displayName": "Azure Spatial Anchors SDK Core",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.subsystemregistration": "1.0.6",
+    "com.unity.xr.arsubsystems": "3.1.3",
+    "com.unity.xr.arfoundation" : "3.1.3"
+  }
+}

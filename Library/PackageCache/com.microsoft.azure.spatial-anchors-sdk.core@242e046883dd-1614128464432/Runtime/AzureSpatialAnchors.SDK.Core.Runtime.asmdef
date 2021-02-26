@@ -1,0 +1,23 @@
+{
+    "name": "AzureSpatialAnchors.SDK.Core.Runtime",
+    "references": [
+        "Unity.XR.ARSubsystems",
+        "Unity.XR.ARFoundation",
+        "AzureSpatialAnchors.SDK.iOS.Runtime",
+        "AzureSpatialAnchors.SDK.Windows.Runtime",
+        "AzureSpatialAnchors.SDK.Android.Runtime"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "WSA"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
