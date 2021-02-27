@@ -6,10 +6,10 @@ This project creates an Android App of a Portal that displays a 360 video, using
 ### Prerequisites
 
 Current setup
-* [Unity 2019.4.18f1]
+* Unity 2019.4.18f1
 * [Mixed Raelity Toolkit 2.5.4](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool) - Only Foundation package.
-* [AR Foundation 3.1.3]
-* [AR Core 3.1.3]
+* AR Foundation 3.1.3
+* AR Core 3.1.3
 
 Check out my video instalation. 
 
